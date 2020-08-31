@@ -30,3 +30,8 @@
 &nbsp;&nbsp;<code><img height="37" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs.svg"></code>
 &nbsp;&nbsp;<code><img height="37" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flask.svg"></code>
 &nbsp;&nbsp;<code><img height="37" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg"></code>
+
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam52&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Github stats" title="Github Stats">
+</p>
