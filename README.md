@@ -56,9 +56,9 @@ const abhishek = {
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=450 src="https://github-readme-streak-stats.herokuapp.com/?user=satyam52&&show_icons=true&show_bg=1" alt="satyam52" />
+      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=satyam52&&show_icons=true&show_bg=1" alt="satyam52" />
     </a>
-    <img align="right" width=450 src="https://bad-apple-github-readme.vercel.app/api?username=satyam52&&show_icons=true&show_bg=1" alt="Github stats" title="Github Stats">
+    <img align="right" width=400 src="https://bad-apple-github-readme.vercel.app/api?username=satyam52&&show_icons=true&show_bg=1" alt="Github stats" title="Github Stats">
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
