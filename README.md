@@ -35,7 +35,7 @@
 const abhishek = {
   pronouns: "he" | "him",
   code: [Javascript, Python, C++, Java],
-  tools: [ReactJs, NodeJs, Scikit-Learn, Tensorflow, Docker],
+  tools: [ReactJs, NodeJs, Scikit-Learn, flask, MongoDB],
 }
 ```
 
